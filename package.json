@@ -1,0 +1,15 @@
+
+{
+  "name": "ts-begginer",
+  "version": "1.0.0",
+  "description": "[Try it here](http://tsbeginner.devsamurai.s3-website.eu-central-1.amazonaws.com/)",
+  "scripts": {
+    "build": "npx tsc -w"
+  },
+  "author": "Bruno Goncalves",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "main": "index.js"
+}
